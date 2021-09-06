@@ -7,5 +7,27 @@ use Illuminate\Http\Request;
 
 class StudentController extends Controller
 {
-    //
+    //REGISTER API
+    public function register(Request $request)
+    {
+
+    }
+
+    //LOGIN API
+    public function login(Request $request)
+    {
+
+    }
+
+    //PROFILE API
+    public function profile()
+    {
+
+    }
+
+    //LOGOUT API
+    public function logout()
+    {
+
+    }
 }
